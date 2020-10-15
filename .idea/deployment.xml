@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tao" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="huang">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huangjq/PyCharmCode/4_project/1_UNet/B4_attUnetv3" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jing">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huangjq/PyCharmCode/4_project/1_UNet/B4_attUnetv3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tao">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huangtao/Pro_jingqi/B4_attUnetv3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

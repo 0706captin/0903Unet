@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "hd.py", line 139, in <module>
+    hd_list, name = save_hd_contours(k=0, date='0903v1')
+  File "hd.py", line 122, in save_hd_contours
+    name_list = os.listdir(input_root)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/huangjq/PycharmCode/cxj_Code/B4_attUnetv4/results/images/0903v1/k0/input'
